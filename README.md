@@ -59,8 +59,29 @@
 
 # Action
 
-[![Ramsayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsayi)](https://github.com/ramsayi/github-readme-stats)
+<div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramsayi&hide_title=true&hide_border=true&show_icons=trueline_height=21&show_icons=true&theme=radical" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsayi&hide_title=true&hide_border=true&layout=compact&langs_count=6&show_icons=true&theme=radical" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ramsayi&theme=github" />
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ramsayi" />
+</div>
 
 <div align="center">
     <img src="https://metrics.lecoq.io/ramsayi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
+</div>
+
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=ramsayi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+
+# Social
+
+<div align="center">
+    <img src="https://stats.justsong.cn/api/csdn?id=Ramsayi">
 </div>
