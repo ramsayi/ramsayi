@@ -43,6 +43,7 @@
 <span >
 	<img  src="https://img.shields.io/badge/-Windows 11-black?style=flat-square&logo=Windows" />
 	<img  src="https://img.shields.io/badge/-Ubuntu 22-black?style=flat-square&logo=ubuntu" />
+	<img  src="https://img.shields.io/badge/-Manjaro KDE 21-black?style=flat-square&logo=manjaro" />
     <br />
 	<img  src="https://img.shields.io/badge/-Adobe PhotoShop-black?style=flat-square&logo=adobephotoshop" />
 	<img  src="https://img.shields.io/badge/-Adobe Premiere Pro-black?style=flat-square&logo=adobepremierepro" />
