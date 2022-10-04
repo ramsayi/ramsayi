@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&width=500&height=80&lines=console.log('Hello!')" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&width=500&height=80&lines=console.log('Hello!')" alt="Typing SVG" /></a>
 </div>
 
 # Hello
@@ -12,11 +12,11 @@
 	<img  src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus" />
 	<img  src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 	<img  src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-    <br />
+	<br />
 	<img  src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart" />
 	<img  src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter" />
 	<img  src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=react" />
-    <br />
+	<br />
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -24,9 +24,13 @@
 	<img  src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery" />
 	<img  src="https://img.shields.io/badge/-BootStrap-black?style=flat-square&logo=bootstrap" />
 	<img  src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+	<img  src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios" />
+	<img  src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack" />
 	<img  src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js" />
 	<img  src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react" />
 	<img  src="https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar" />
+	<br />
+	<img  src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim" />
 </span>
 
 #### 计划学习：
@@ -34,8 +38,8 @@
 <span >
 	<img  src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
 	<img  src="https://img.shields.io/badge/-KOA-33333D?style=flat-square&logo=koa" />
+	<img  src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 	<img  src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron" />
-	<img  src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim" />
 </span>
 
 #### 常用工具：
@@ -79,7 +83,7 @@
 </div>
 
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=ramsayi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+	<img  src="https://github-profile-trophy.vercel.app/?username=ramsayi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
 # Social
