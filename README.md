@@ -1,10 +1,10 @@
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&width=500&height=80&lines=console.log('Hello!')" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&width=500&height=80&lines=Hello, I'm Ramsayi" alt="Typing SVG" /></a>
 </div>
 
 # Hello
 
-你好，我是 Ramsayi！目前就读于中国矿业大学遥感科学与技术专业，热爱计算机科学和 IT 互联网事业。
+你好，我是 Ramsayi！
 
 #### 正在学习：
 
