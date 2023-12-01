@@ -81,9 +81,3 @@
 	<img  src="https://img.shields.io/badge/-Hexo-black?style=flat-square&logo=hexo" />
 	<img  src="https://img.shields.io/badge/-Hugo-black?style=flat-square&logo=hugo" />
 </span>
-
-# Social
-
-<div align="center">
-    <img src="https://stats.justsong.cn/api/csdn?id=Ramsayi">
-</div>
